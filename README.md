@@ -7,7 +7,11 @@
   
 
 ### Project Overview
+---
 This project showcases my skills in advanced MySQL and PowerBI. The project aims to provide the CEO with insights into the overall performance of the E-commerce shop in order to attract more investments.
+
+![Screenshot (164)](https://github.com/VainoAlweendo/E-commerce-Project/assets/150591546/5978b044-0dd5-46e8-9978-a4777b02b553)
+
 
 ### Data Sources
 The data is from the MySQL database named mavenfuzzyfactory. It has been made available by mavenanalytics.io.
@@ -71,7 +75,8 @@ GROUP BY 1,2 ;
 
 - The sum of orders trended up, resulting in a 9,746.67% increase between Sunday, January 1, 2012, and Wednesday, October 1, 2014.
 
-  
+### References
+1. Advanced MySQL for E-commerce and Web Analytics (Udemy)
 
   
 
